@@ -2,4 +2,6 @@
 
 Una pequeña aplicación hecha en React con Hooks para buscar y mostrar gifs animados.
 
-https://franlp96.github.io/gifexpertapp-react/
+Instalar los modulos de node: ```npm install```
+
+Iniciar: ```npm start```
